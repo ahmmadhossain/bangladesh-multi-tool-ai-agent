@@ -108,8 +108,7 @@ git init
 git add .
 git commit -m "Build Bangladesh multi-tool AI agent"
 git branch -M main
-git remote add origin https://github.com/git status
-/bangladesh_multi_tool_ai_agent.git
+git remote add origin https://github.com/ahmmadhossain/bangladesh-multi-tool-ai-agent.git
 git push -u origin main
 ```
 
