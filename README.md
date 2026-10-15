@@ -25,7 +25,7 @@ Review each dataset's license and attribution requirements before redistributing
 
 ```text
 bangladesh_multi_tool_ai_agent/
-├── .env.example
+├── .env
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
